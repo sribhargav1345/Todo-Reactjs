@@ -1,0 +1,9 @@
+{
+    "todos": [
+      { "id": 1, "title": "CSD Project", "description": "Face Emotion Recognition", "completed": false },
+      { "id": 2, "title": "Big Data Analytics Project", "description": "Anomaly Detection using Kafka", "completed": true },
+      { "id": 3, "title": "CSD Assignment", "description": "Food Delivery Website", "completed": false },
+      { "id": 4, "title": "Leetcode", "description": "400 questions", "completed": true }
+    ]
+}
+  
